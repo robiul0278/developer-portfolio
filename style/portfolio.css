@@ -169,3 +169,93 @@ nav ul li a{
     text-align: center;
     margin-bottom: 20px;
 }
+
+/*-------------summary section------------------*/
+
+.summary{
+
+}
+.summary-content{
+    display: flex;
+    margin-top: 100px;
+    
+
+}
+.summary-item{
+    margin-right: 50px;
+}
+.summary-item .title{
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 41px;
+    color: #474747;
+    margin-bottom:  20px;
+}
+.summary-item .sub-title{
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 34px;
+    color: #474747;
+    margin-bottom:  5px;
+    margin-top: 10px;
+}
+.summary-item h5{
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 27px;
+    color: #757575;
+    margin-bottom: 20px;
+}
+
+
+.summary-item .discription{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #757575;
+    margin-bottom: 10px;
+}
+.sum-btn{
+    text-align: center;
+    padding: 30px 0;
+}
+
+
+/*----------Contact--------*/
+footer{
+    background: #FFF8F3;
+}
+.contact{
+    display: flex;
+    padding: 130px 200px;
+    justify-content: space-between;
+}
+
+.contact-item h2{
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 48px;
+    margin-bottom: 20px;
+    color: #181818;
+   
+}
+
+.contact-item a{
+    text-decoration: none;
+    margin-right: 5px;
+}
+
+.contact-item p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #474747;
+    margin-bottom: 20px;
+}
+
+.contact-item input , textarea{
+    width: 88%;
+    border: 0;
+    padding: 18px 30px;
+    margin-bottom: 15px;
+}
